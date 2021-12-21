@@ -37,8 +37,8 @@
       ]
     },
     "/home/knoxtrot/stuff/learning/jpgdegens/contracts/Counter.sol": {
-      "lastModificationDate": 1639981852038,
-      "contentHash": "d9a444046e9061a3562d97bc55d8daf2",
+      "lastModificationDate": 1640064319352,
+      "contentHash": "aacf7e04536e6a457f4411dfafbf2b8e",
       "sourceName": "contracts/Counter.sol",
       "solcConfig": {
         "version": "0.8.10",
